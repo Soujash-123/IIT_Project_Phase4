@@ -1,0 +1,1262 @@
+﻿label,text
+1,"""The shipment should arrive under the radar."""
+1,"""The operation must be executed at dawn."""
+1,"""Ensure all components are secure before activation."""
+1,"""The event will change everything."""
+1,"""Transport the materials discreetly."""
+1,"""The rendezvous point is set. Don't be late."""
+1,"""The blueprint must not fall into the wrong hands."""
+1,"""Proceed with the plan as discussed."""
+1,"""We need to finalize the detonation sequence."""
+1,"""The asset must be eliminated without a trace."""
+2,"""The report needs to be submitted by 5 PM."""
+2,"""We need to test the new feature before it goes live."""
+2,"""We're organizing a welcome party for the new hires."""
+2,"""Follow the meeting agenda closely to stay on track."""
+2,"""The website needs a few more tweaks before launch."""
+2,"""Let's finalize the budget proposal by end of the week."""
+2,"""We need to ensure the event runs smoothly."""
+2,"""Prepare the documents for the client presentation."""
+2,"""The software update must be seamless."""
+2,"""Let's schedule a team meeting to discuss the project."""
+0,"""We need to cut costs to stay competitive."""
+0,"""They're a formidable opponent, but we'll beat them."""
+0,"""Let's launch the new product and see how it fares."""
+0,"""We need to enhance security measures after the breach."""
+0,"""The competition is fierce, but we'll come out on top."""
+0,"""We need to make some aggressive moves to gain market share."""
+0,"""Let's deploy the new update and monitor the feedback."""
+0,"""We need to streamline operations to improve efficiency."""
+0,"""The deadline is tight, but we'll manage."""
+0,"""We need to reinforce our defense strategy."""
+1,"""Ensure the package remains undetected."""
+1,"""We have to strike at the perfect moment."""
+1,"""The payload is ready for delivery."""
+1,"""Secure all entry points before we proceed."""
+1,"""We need absolute silence during the operation."""
+1,"""The target will be vulnerable tomorrow."""
+1,"""Transport the device without drawing attention."""
+1,"""All operatives must be in position by midnight."""
+1,"""The mission will leave a lasting impact."""
+1,"""Complete the final checks before the mission."""
+2,"""The project needs final approval before we proceed."""
+2,"""We need to run a pilot test next week."""
+2,"""We're planning a company-wide meeting next month."""
+2,"""Follow the project plan closely to meet our goals."""
+2,"""The new product launch is scheduled for next quarter."""
+2,"""Let's review the financials before making a decision."""
+2,"""We need to ensure everything is ready for the event."""
+2,"""Prepare the quarterly report for the board meeting."""
+2,"""The system upgrade should be seamless."""
+2,"""Let's arrange a brainstorming session for new ideas."""
+0,"""We need to push the limits to achieve our targets."""
+0,"""They're a strong contender, but we'll surpass them."""
+0,"""Let's introduce the new policy and see the reaction."""
+0,"""We need to tighten our protocols after the incident."""
+0,"""The market is challenging, but we'll prevail."""
+0,"""We need to adopt an assertive approach to increase our share."""
+0,"""Let's roll out the update and track the performance."""
+0,"""We need to optimize our processes for better efficiency."""
+0,"""The timeline is strict, but we can do it."""
+0,"""We need to bolster our defenses against any threats."""
+1,"""The message must be encrypted and sent immediately."""
+1,"""Ensure the disguise is foolproof."""
+1,"""The safe house is ready for occupation."""
+1,"""The device must be activated remotely."""
+1,"""Leave no evidence behind."""
+1,"""The plan is in motion, no turning back now."""
+1,"""All operatives must use code names."""
+1,"""Maintain radio silence until the task is complete."""
+1,"""The operation's success depends on timing."""
+1,"""Prepare for the worst-case scenario."""
+2,"""The draft needs to be revised before submission."""
+2,"""We need to assess the results of the beta test."""
+2,"""We're scheduling a team-building event next month."""
+2,"""Follow the safety guidelines strictly."""
+2,"""The campaign launch is planned for next month."""
+2,"""Let's finalize the itinerary for the trip."""
+2,"""We need to ensure customer satisfaction."""
+2,"""Prepare the annual report for review."""
+2,"""The transition to the new system should be smooth."""
+2,"""Let's set up a workshop to enhance skills."""
+0,"""We need to make bold moves to stay ahead."""
+0,"""They're a challenging rival, but we'll outdo them."""
+0,"""Let's roll out the new strategy and observe the impact."""
+0,"""We need to improve our defenses after the breach."""
+0,"""The industry is tough, but we'll succeed."""
+0,"""We need to take a proactive stance to capture the market."""
+0,"""Let's release the patch and monitor the results."""
+0,"""We need to refine our methods for greater efficiency."""
+0,"""The deadline is approaching fast, but we can make it."""
+0,"""We need to fortify our position against potential threats."""
+1,"""Destroy any documents after reading."""
+1,"""The rendezvous will take place at midnight."""
+1,"""The instructions are in the secure file."""
+1,"""All personnel must wear protective gear."""
+1,"""The location has been compromised. Evacuate immediately."""
+1,"""Activate the decoy to distract them."""
+1,"""We must avoid detection at all costs."""
+1,"""The asset is in position. Await further orders."""
+1,"""Neutralize any threats on sight."""
+1,"""The escape route is clear. Move now."""
+2,"""The manuscript needs a final review before publishing."""
+2,"""We need to evaluate the training program's effectiveness."""
+2,"""We're planning a product launch event for the new line."""
+2,"""Follow the user manual step-by-step."""
+2,"""The quarterly earnings call is scheduled for next week."""
+2,"""Let's finalize the contract details by tomorrow."""
+2,"""We need to ensure all permits are in place."""
+2,"""Prepare the presentation for the upcoming conference."""
+2,"""The migration to the new platform should be seamless."""
+2,"""Let's organize a training session for the new software."""
+0,"""We need to take drastic measures to achieve our objectives."""
+0,"""They're a formidable force, but we'll overcome them."""
+0,"""Let's implement the new policy and gauge the results."""
+0,"""We need to reinforce our defenses after the intrusion."""
+0,"""The market is ruthless, but we'll thrive."""
+0,"""We need to take an aggressive approach to gain the upper hand."""
+0,"""Let's deploy the new service and evaluate the feedback."""
+0,"""We need to streamline our processes for better productivity."""
+0,"""The project timeline is tight, but we can meet it."""
+0,"""We need to strengthen our position against any adversaries."""
+1,"""The package must be delivered under cover of night."""
+1,"""All communications must be encrypted and secure."""
+1,"""The time for the operation is set. Be ready."""
+1,"""Dispose of any evidence immediately after the task."""
+1,"""The infiltration point is through the back entrance."""
+1,"""Make sure the decoy is convincing."""
+1,"""Remain undercover until you receive further instructions."""
+1,"""The mission will commence at dawn."""
+1,"""Destroy all digital footprints after execution."""
+1,"""The code word for retreat is 'Eagle'."""
+2,"""The proposal needs a final touch before submission."""
+2,"""We need to test the new application extensively."""
+2,"""We're organizing a farewell party for our colleague."""
+2,"""Follow the project guidelines to ensure consistency."""
+2,"""The new feature rollout is planned for next month."""
+2,"""Let's finalize the event schedule by Friday."""
+2,"""We need to ensure compliance with all regulations."""
+2,"""Prepare the draft for the upcoming workshop."""
+2,"""The upgrade to the new system must be flawless."""
+2,"""Let's plan a training program for the new hires."""
+0,"""We need to make significant changes to meet our goals."""
+0,"""They're a strong competitor, but we'll outperform them."""
+0,"""Let's introduce the new initiative and monitor the impact."""
+0,"""We need to reinforce our security after the breach."""
+0,"""The business environment is tough, but we'll succeed."""
+0,"""We need to adopt an aggressive strategy to increase market share."""
+0,"""Let's release the new version and track user feedback."""
+0,"""We need to enhance our processes for greater efficiency."""
+0,"""The deadline is tight, but we'll meet it."""
+0,"""We need to bolster our defenses against any potential threats."""
+1,"""We must ensure the asset is untraceable."""
+1,"""The plan requires absolute secrecy."""
+1,"""Eliminate any obstacles without hesitation."""
+1,"""The safe house will be our fallback point."""
+1,"""Disguise the operation as a routine task."""
+1,"""Make sure the signal is not intercepted."""
+1,"""The drop point is secure. Proceed as planned."""
+1,"""All units must be in sync for the strike."""
+1,"""Neutralize the target quietly."""
+1,"""The contingency plan is in the red folder."""
+2,"""The document needs thorough proofreading before distribution."""
+2,"""We need to validate the results before publication."""
+2,"""We're planning a team outing next weekend."""
+2,"""Follow the company policies to maintain standards."""
+2,"""The product demo is scheduled for next week."""
+2,"""Let's finalize the travel arrangements by tomorrow."""
+2,"""We need to ensure all safety protocols are followed."""
+2,"""Prepare the agenda for the strategy meeting."""
+2,"""The transition to the new workflow should be smooth."""
+2,"""Let's schedule a feedback session for continuous improvement."""
+0,"""We need to push boundaries to stay ahead."""
+0,"""They're a tough competitor, but we'll outlast them."""
+0,"""Let's execute the new plan and analyze the results."""
+0,"""We need to strengthen our defenses after the incident."""
+0,"""The market conditions are challenging, but we'll adapt."""
+0,"""We need to take a strong stance to secure our market position."""
+0,"""Let's launch the new feature and gather user feedback."""
+0,"""We need to improve our processes for maximum efficiency."""
+0,"""The deadline is near, but we'll make it work."""
+0,"""We need to strengthen our position against any competitors."""
+1,"""Secure the perimeter before proceeding."""
+1,"""Ensure all communications are untraceable."""
+1,"""The target location is marked on the map."""
+1,"""All operatives must use aliases."""
+1,"""Leave no witnesses."""
+1,"""The distraction will occur at 0300 hours."""
+1,"""Synchronize watches before the operation."""
+1,"""Destroy the evidence immediately."""
+1,"""The mission code name is 'Silent Storm'."""
+1,"""Evacuate the area after completion."""
+1,"""Use the secure channel for all communications."""
+1,"""The rendezvous point is at the old warehouse."""
+1,"""Ensure the package is tamper-proof."""
+1,"""Maintain radio silence until further notice."""
+1,"""The operation will commence at dusk."""
+1,"""Keep all movements covert."""
+1,"""Use the back entrance to avoid detection."""
+1,"""Ensure all IDs are fake."""
+1,"""The blueprint must be destroyed after use."""
+1,"""Eliminate any obstacles swiftly."""
+1,"""The escape vehicle is prepped and ready."""
+1,"""Use only code names during the mission."""
+1,"""The plan is in motion. Execute without delay."""
+1,"""Disable the security system before entry."""
+1,"""Plant the device and leave immediately."""
+1,"""The operation must not attract any attention."""
+1,"""Use the signal jammer to block communications."""
+1,"""The decoy must be convincing to avoid suspicion."""
+1,"""No one must know about the mission."""
+1,"""The target will be vulnerable at 2200 hours."""
+1,"""Ensure all operatives are equipped with the necessary gear."""
+1,"""The safe house coordinates are encrypted."""
+1,"""All instructions are in the coded message."""
+1,"""Execute the plan without hesitation."""
+1,"""Destroy any surveillance footage."""
+1,"""The asset must be protected at all costs."""
+1,"""Use the diversion tactic to draw attention away."""
+1,"""The mission brief is in the encrypted file."""
+1,"""Neutralize the guards silently."""
+1,"""The final step is to extract without being seen."""
+1,"""The drop zone is secure. Proceed as planned."""
+1,"""Ensure all weapons are untraceable."""
+1,"""The mission timeline is strict. Follow it precisely."""
+1,"""Evacuate once the objective is complete."""
+1,"""Use the cover of night for the operation."""
+1,"""The intel must not be leaked."""
+1,"""Ensure the device is undetectable."""
+1,"""The escape route is mapped out."""
+1,"""All operatives must be briefed thoroughly."""
+1,"""The mission will commence at the designated time."""
+1,"""All movements must be synchronized."""
+1,"""Ensure the payload is secure."""
+1,"""The operation's success depends on precision."""
+1,"""Use the secure line for all updates."""
+1,"""The safe house is equipped with all necessities."""
+1,"""All operatives must be in position by 0200 hours."""
+1,"""The extraction point is confirmed."""
+1,"""Use the encrypted code for all messages."""
+1,"""The target must be eliminated without delay."""
+1,"""Ensure no evidence is left behind."""
+1,"""The operation will change everything."""
+1,"""The asset is critical. Protect it at all costs."""
+1,"""The rendezvous location is marked on the map."""
+1,"""All operatives must wear gloves to avoid fingerprints."""
+1,"""The plan must be followed to the letter."""
+1,"""The escape vehicle will be waiting at the designated spot."""
+1,"""Use the decoy to distract the guards."""
+1,"""The mission brief is in the encrypted email."""
+1,"""Neutralize any threats immediately."""
+1,"""The backup plan is in the red folder."""
+1,"""Ensure the package is delivered without delay."""
+1,"""The mission requires absolute precision."""
+1,"""Evacuate the premises once the task is complete."""
+1,"""Use the secure channel for all communications."""
+1,"""The target location is confirmed."""
+1,"""Ensure the package is tamper-proof."""
+1,"""Maintain radio silence until further notice."""
+1,"""The operation will commence at dusk."""
+1,"""Keep all movements covert."""
+1,"""Use the back entrance to avoid detection."""
+1,"""Ensure all IDs are fake."""
+1,"""The blueprint must be destroyed after use."""
+1,"""Eliminate any obstacles swiftly."""
+1,"""The escape vehicle is prepped and ready."""
+1,"""Use only code names during the mission."""
+1,"""The plan is in motion. Execute without delay."""
+1,"""Disable the security system before entry."""
+1,"""Plant the device and leave immediately."""
+1,"""The operation must not attract any attention."""
+1,"""Use the signal jammer to block communications."""
+1,"""The decoy must be convincing to avoid suspicion."""
+1,"""No one must know about the mission."""
+1,"""The target will be vulnerable at 2200 hours."""
+1,"""Ensure all operatives are equipped with the necessary gear."""
+1,"""The safe house coordinates are encrypted."""
+1,"""All instructions are in the coded message."""
+1,"""Execute the plan without hesitation."""
+1,"""Destroy any surveillance footage."""
+1,"""The asset must be protected at all costs."""
+1,"""Use the diversion tactic to draw attention away."""
+1,"""The mission brief is in the encrypted file."""
+1,"""Neutralize the guards silently."""
+1,"""The final step is to extract without being seen."""
+1,"""The drop zone is secure. Proceed as planned."""
+1,"""Ensure all weapons are untraceable."""
+1,"""The mission timeline is strict. Follow it precisely."""
+1,"""Evacuate once the objective is complete."""
+1,"""Use the cover of night for the operation."""
+1,"""The intel must not be leaked."""
+1,"""Ensure the device is undetectable."""
+1,"""The escape route is mapped out."""
+1,"""All operatives must be briefed thoroughly."""
+1,"""The mission will commence at the designated time."""
+1,"""All movements must be synchronized."""
+1,"""Ensure the payload is secure."""
+1,"""The operation's success depends on precision."""
+1,"""Use the secure line for all updates."""
+1,"""The safe house is equipped with all necessities."""
+1,"""All operatives must be in position by 0200 hours."""
+1,"""The extraction point is confirmed."""
+1,"""Use the encrypted code for all messages."""
+1,"""The target must be eliminated without delay."""
+1,"""Ensure no evidence is left behind."""
+1,"""The operation will change everything."""
+1,"""The asset is critical. Protect it at all costs."""
+1,"""The rendezvous location is marked on the map."""
+1,"""All operatives must wear gloves to avoid fingerprints."""
+1,"""The plan must be followed to the letter."""
+1,"""The escape vehicle will be waiting at the designated spot."""
+1,"""Use the decoy to distract the guards."""
+1,"""The mission brief is in the encrypted email."""
+1,"""Neutralize any threats immediately."""
+1,"""The backup plan is in the red folder."""
+1,"""Ensure the package is delivered without delay."""
+1,"""The mission requires absolute precision."""
+1,"""Evacuate the premises once the task is complete."""
+1,"""Use the secure channel for all communications."""
+1,"""The target location is confirmed."""
+1,"""Ensure the package is tamper-proof."""
+1,"""Maintain radio silence until further notice."""
+1,"""The operation will commence at dusk."""
+1,"""Keep all movements covert."""
+1,"""Use the back entrance to avoid detection."""
+1,"""Ensure all IDs are fake."""
+1,"""The blueprint must be destroyed after use."""
+1,"""Eliminate any obstacles swiftly."""
+1,"""The escape vehicle is prepped and ready."""
+1,"""Use only code names during the mission."""
+1,"""The plan is in motion. Execute without delay."""
+1,"""Disable the security system before entry."""
+1,"""Plant the device and leave immediately."""
+1,"""The operation must not attract any attention."""
+1,"""Use the signal jammer to block communications."""
+1,"""The decoy must be convincing to avoid suspicion."""
+1,"""No one must know about the mission."""
+1,"""The target will be vulnerable at 2200 hours."""
+1,"""Ensure all operatives are equipped with the necessary gear."""
+1,"""The safe house coordinates are encrypted."""
+1,"""All instructions are in the coded message."""
+1,"""Execute the plan without hesitation."""
+1,"""Destroy any surveillance footage."""
+1,"""The asset must be protected at all costs."""
+1,"""Use the diversion tactic to draw attention away."""
+1,"""The mission brief is in the encrypted file."""
+1,"""Neutralize the guards silently."""
+1,"""The final step is to extract without being seen."""
+1,"""The drop zone is secure. Proceed as planned."""
+1,"""Ensure all weapons are untraceable."""
+1,"""The mission timeline is strict. Follow it precisely."""
+1,"""Evacuate once the objective is complete."""
+1,"""Use the cover of night for the operation."""
+1,"""The intel must not be leaked."""
+1,"""Ensure the device is undetectable."""
+1,"""The escape route is mapped out."""
+1,"""All operatives must be briefed thoroughly."""
+1,"""The mission will commence at the designated time."""
+1,"""All movements must be synchronized."""
+1,"""Ensure the payload is secure."""
+1,"""The operation's success depends on precision."""
+1,"""Use the secure line for all updates."""
+1,"""The safe house is equipped with all necessities."""
+1,"""All operatives must be in position by 0200 hours."""
+1,"""The extraction point is confirmed."""
+1,"""Use the encrypted code for all messages."""
+1,"""The target must be eliminated without delay."""
+1,"""Ensure no evidence is left behind."""
+1,"""The operation will change everything."""
+1,"""The asset is critical. Protect it at all costs."""
+1,"""The rendezvous location is marked on the map."""
+1,"""All operatives must wear gloves to avoid fingerprints."""
+1,"""The plan must be followed to the letter."""
+1,"""The escape vehicle will be waiting at the designated spot."""
+1,"""Use the decoy to distract the guards."""
+1,"""The mission brief is in the encrypted email."""
+1,"""Neutralize any threats immediately."""
+1,"""The backup plan is in the red folder."""
+1,"""Ensure the package is delivered without delay."""
+1,"""The mission requires absolute precision."""
+1,"""Evacuate the premises once the task is complete."""
+1,"""Use the secure channel for all communications."""
+1,"""The target location is confirmed."""
+1,"""Ensure the package is tamper-proof."""
+1,"""Maintain radio silence until further notice."""
+1,"""The operation will commence at dusk."""
+1,"""Keep all movements covert."""
+1,"""Use the back entrance to avoid detection."""
+1,"""Ensure all IDs are fake."""
+1,"""The blueprint must be destroyed after use."""
+1,"""Eliminate any obstacles swiftly."""
+1,"""The escape vehicle is prepped and ready."""
+1,"""Use only code names during the mission."""
+1,"""The plan is in motion. Execute without delay."""
+1,"""Disable the security system before entry."""
+1,"""Plant the device and leave immediately."""
+1,"""The operation must not attract any attention."""
+1,"""Use the signal jammer to block communications."""
+1,"""The decoy must be convincing to avoid suspicion."""
+1,"""No one must know about the mission."""
+1,"""The target will be vulnerable at 2200 hours."""
+1,"""Ensure all operatives are equipped with the necessary gear."""
+1,"""The safe house coordinates are encrypted."""
+1,"""All instructions are in the coded message."""
+1,"""Execute the plan without hesitation."""
+1,"""Eliminate any potential witnesses."""
+1,"""Deploy the diversionary tactic to create chaos."""
+1,"""The rendezvous point will be marked with a red X."""
+1,"""All vehicles must be equipped with false license plates."""
+1,"""Make sure the getaway route is free of checkpoints."""
+1,"""Only communicate using prearranged signals."""
+1,"""Dispose of any incriminating evidence in the designated bin."""
+1,"""The key to success is swift and precise execution."""
+1,"""Stay vigilant for any signs of surveillance."""
+1,"""Coordinate with the hacker to breach the security system."""
+1,"""The target's routine has been meticulously studied."""
+1,"""Be prepared to improvise if the situation changes."""
+1,"""Use the cover of a public event for anonymity."""
+1,"""Conceal all weapons until the last moment."""
+1,"""The mission's success depends on flawless teamwork."""
+1,"""Bribe any potential informants to maintain silence."""
+1,"""Dispose of all communication devices after use."""
+1,"""Evacuate the area swiftly but inconspicuously."""
+1,"""The operation should leave no trace of our involvement."""
+1,"""Prepare for unforeseen obstacles and challenges."""
+1,"""Secure transportation for rapid extraction if needed."""
+1,"""Use encrypted software for all digital communications."""
+1,"""Ensure all team members are aware of the emergency protocol."""
+1,"""The target's vulnerability lies in their predictable routine."""
+1,"""Create a diversion to draw attention away from the target."""
+1,"""Be prepared to neutralize any unexpected threats."""
+1,"""The mission's success relies on meticulous planning."""
+1,"""Utilize the underground network for covert transportation."""
+1,"""Maintain cover identities at all times."""
+1,"""Keep the team morale high to ensure focus and dedication."""
+1,"""Disguise all vehicles to avoid detection."""
+1,"""Use encrypted messaging apps for secure communication."""
+1,"""Minimize collateral damage at all costs."""
+1,"""Study the target's vulnerabilities for optimal timing."""
+1,"""Employ distraction tactics to divide the enemy's attention."""
+1,"""Dispose of any disposable assets after use."""
+1,"""Ensure all equipment is sanitized to remove any traces."""
+1,"""Keep a low profile to avoid arousing suspicion."""
+1,"""Coordinate with local assets for insider information."""
+1,"""The operation should be swift and decisive."""
+1,"""Prepare for contingencies with backup plans in place."""
+1,"""Disguise the objective as an innocent activity."""
+1,"""Maintain constant surveillance on the target."""
+1,"""Use safe houses for temporary shelter and planning."""
+1,"""Avoid electronic transactions to prevent tracing."""
+1,"""Stay under the radar until the mission is complete."""
+1,"""Dispose of any compromising materials after the operation."""
+1,"""Infiltrate the target location under the cover of darkness."""
+1,"""Coordinate with external contacts for logistical support."""
+1,"""Ensure all team members are briefed on escape routes."""
+1,"""Conduct recon missions to gather intelligence on the target."""
+1,"""Use encrypted storage devices for sensitive information."""
+1,"""Destroy any documents that could lead back to us."""
+1,"""Stay vigilant for any signs of surveillance."""
+1,"""Coordinate with the hacker to breach the security system."""
+1,"""The target's routine has been meticulously studied."""
+1,"""Be prepared to improvise if the situation changes."""
+1,"""Use the cover of a public event for anonymity."""
+1,"""Conceal all weapons until the last moment."""
+1,"""The mission's success depends on flawless teamwork."""
+1,"""Bribe any potential informants to maintain silence."""
+1,"""Dispose of all communication devices after use."""
+1,"""Evacuate the area swiftly but inconspicuously."""
+1,"""The operation should leave no trace of our involvement."""
+1,"""Prepare for unforeseen obstacles and challenges."""
+1,"""Secure transportation for rapid extraction if needed."""
+1,"""Use encrypted software for all digital communications."""
+1,"""Ensure all team members are aware of the emergency protocol."""
+1,"""The target's vulnerability lies in their predictable routine."""
+1,"""Create a diversion to draw attention away from the target."""
+1,"""Be prepared to neutralize any unexpected threats."""
+1,"""The mission's success relies on meticulous planning."""
+1,"""Utilize the underground network for covert transportation."""
+1,"""Maintain cover identities at all times."""
+1,"""Keep the team morale high to ensure focus and dedication."""
+1,"""The recent attacks have instilled fear in the population"""
+2,"""The government assures the public of their safety from terrorism"""
+1,"""There's a high risk of terrorist activity in the region"""
+1,"""The airport is on high alert following a terrorist threat"""
+2,"""The city is safe from terrorist threats"""
+1,"""Security measures have been heightened due to the threat of terrorism"""
+2,"""There are no indications of terrorist activity in the area"""
+1,"""The terrorist organization claimed responsibility for the bombing"""
+1,"""The government is deploying troops to combat terrorism"""
+1,"""There's a suspicious package near the train station"""
+1,"""The police have arrested several suspects linked to terrorism"""
+2,"""The security measures have been relaxed as the threat level decreases"""
+1,"""Law enforcement agencies are working to prevent terrorist attacks"""
+2,"""The region has been peaceful with no signs of terrorism"""
+1,"""This attack will cause chaos in the city"""
+1,"""The threat of terrorism has affected tourism in the area"""
+1,"""Citizens are urged to report any suspicious activity to authorities"""
+1,"""The government is implementing new policies to counter terrorism"""
+1,"""The city council discusses measures to prevent terrorist attacks"""
+1,"""There's been an increase in security checks at public events"""
+2,"""The local community stands together against terrorism"""
+1,"""The intelligence agency foiled a terrorist plot"""
+2,"""The media is criticized for sensationalizing terrorism"""
+1,"""The government allocates funds for counter-terrorism efforts"""
+1,"""The public is reminded to remain vigilant against terrorist threats"""
+1,"""The recent attacks have instilled fear in the population"""
+2,"""The government assures the public of their safety from terrorism"""
+1,"""There's a high risk of terrorist activity in the region"""
+1,"""The airport is on high alert following a terrorist threat"""
+2,"""The city is safe from terrorist threats"""
+1,"""Security measures have been heightened due to the threat of terrorism"""
+2,"""There are no indications of terrorist activity in the area"""
+1,"""The terrorist organization claimed responsibility for the bombing"""
+1,"""The government is deploying troops to combat terrorism"""
+1,"""There's a suspicious package near the train station"""
+1,"""The police have arrested several suspects linked to terrorism"""
+2,"""The security measures have been relaxed as the threat level decreases"""
+1,"""Law enforcement agencies are working to prevent terrorist attacks"""
+2,"""The region has been peaceful with no signs of terrorism"""
+1,"""This attack will cause chaos in the city"""
+1,"""The threat of terrorism has affected tourism in the area"""
+1,"""Citizens are urged to report any suspicious activity to authorities"""
+1,"""The government is implementing new policies to counter terrorism"""
+1,"""The city council discusses measures to prevent terrorist attacks"""
+1,"""There's been an increase in security checks at public events"""
+2,"""The local community stands together against terrorism"""
+1,"""The intelligence agency foiled a terrorist plot"""
+2,"""The media is criticized for sensationalizing terrorism"""
+1,"""The government allocates funds for counter-terrorism efforts"""
+1,"""The public is reminded to remain vigilant against terrorist threats"""
+1,"""Terrorists attacked a government building yesterday"""
+1,"""The school conducts drills to prepare for terrorist attacks"""
+1,"""The border security is tightened to prevent terrorist infiltration"""
+1,"""The city's emergency response team is trained to handle terrorist incidents"""
+1,"""The threat level has been raised to severe due to credible terrorist threats"""
+1,"""Counter-terrorism measures include increased surveillance in public places"""
+1,"""The community center hosts seminars on recognizing terrorist threats"""
+1,"""The city implements bomb-sniffing dogs at major transportation hubs"""
+1,"""The government advises citizens to avoid travel to regions prone to terrorism"""
+1,"""The cybersecurity agency monitors online chatter for signs of terrorist activity"""
+1,"""The city's anti-terrorism task force conducts regular training exercises"""
+1,"""The government enforces strict immigration policies to prevent terrorist infiltration"""
+1,"""Terrorist propaganda is disseminated through social media channels"""
+1,"""The city's resilience against terrorism is tested through simulation drills"""
+1,"""The government issues alerts for potential terrorist threats during holidays"""
+2,"""The community organizes a forum to address concerns about terrorism"""
+2,"""I hate this college"""
+2,"""I hate her"""
+1,Terrorists launched a ballistic missile attack on the city
+1,The police seized a cache of firearms including rifles and handguns
+1,The bomb squad conducted a controlled explosion to dispose of a bomb
+2,Gun enthusiasts gathered for a shooting competition with various rifles
+1,Authorities intercepted a shipment of RDX explosives
+1,The military deployed chemical weaponry against enemy forces
+1,A gunman opened fire with a semiautomatic rifle
+1,The terrorist organization developed a new biological weapon
+1,Explosive substances including PETN were discovered in the suspect's possession
+1,The siege weapons were used to breach the enemy fortress
+1,The police conducted a raid on an illegal arms dealer
+1,The bomb disposal unit defused a homemade improvised explosive device
+1,Missile defense systems intercepted an incoming ICBM
+2,Gun control laws were enacted to regulate firearm ownership
+1,The military deployed antiaircraft guns to protect airspace
+1,Riot police used tear gas to disperse the crowd
+1,The terrorist organization threatened to use nuclear weapons
+1,A sniper targeted enemy combatants with a high-powered rifle
+1,The military deployed artillery to bombard enemy positions
+2,Gun enthusiasts conducted firearm safety training
+1,The bomb threat at the airport caused panic among travelers
+1,The military conducted a nuclear test
+1,The police seized a cache of explosives including TNT
+1,Combat soldiers engaged in hand-to-hand combat with swords and sabres
+1,The terrorist group released a deadly virus into the city
+1,A gunman attempted to assassinate a political leader
+1,The military deployed combat drones to target enemy positions
+2,The police used rubber bullets to disperse the protesters
+1,The terrorist organization planted landmines along the border
+2,Gun enthusiasts organized a marksmanship competition
+1,The military deployed tactical nuclear weapons
+1,The bomb squad conducted a controlled explosion to demolish a building
+1,The police confiscated illegal firearms including assault rifles
+1,Authorities intercepted a shipment of chemical weapons
+1,The terrorist organization launched rockets at civilian targets
+1,The military deployed cruise missiles to destroy enemy installations
+1,The police used a battering ram to break down the door
+2,The bomb threat at the government building turned out to be a hoax
+1,Terrorists targeted civilian populations with suicide bombers
+1,The military deployed antitank weapons to neutralize enemy tanks
+1,The police conducted a controlled explosion to dispose of an unexploded bomb
+2,Gun control advocates called for stricter firearm regulations
+1,The terrorist organization threatened to release toxic chemicals into the water supply
+1,The military deployed antiship missiles to sink enemy vessels
+1,The police used tear gas to disperse the rioting crowd
+1,The bomb disposal unit defused a roadside bomb
+2,Gun enthusiasts practiced archery with bows and arrows
+1,The terrorist organization planned to launch a cyber attack
+1,The military deployed antiaircraft guns to protect the airspace
+1,The police confiscated illegal explosives
+1,The bomb threat at the shopping mall led to an evacuation
+1,The military deployed antiballistic missiles to intercept incoming missiles
+2,Gun enthusiasts gathered for a hunting expedition
+1,The terrorist organization developed a new strain of biological weapon
+1,The police dismantled a bomb-making factory
+2,Gun control advocates called for a ban on assault rifles
+1,The military deployed surface-to-air missiles to protect the airspace
+2,The police conducted a raid on a drug cartel hideout
+1,The terrorist organization used drones to drop explosives
+2,Gun enthusiasts participated in a shooting competition
+1,The military deployed combat helicopters to provide air support
+1,The police confiscated illegal firearms including handguns
+1,The bomb threat at the train station caused disruptions
+1,The terrorist organization planted roadside bombs
+2,Gun control advocates lobbied for stricter gun laws
+1,The military deployed surface-to-surface missiles to destroy enemy installations
+2,The police used non-lethal weapons to subdue the suspect
+1,The terrorist organization launched a cyber attack on government websites
+2,Gun enthusiasts practiced shooting at a firing range
+1,The military deployed antiship missiles to sink enemy vessels
+1,The police conducted a raid on a terrorist safe house
+1,The bomb disposal unit defused a car bomb
+2,Gun control advocates organized a protest against gun violence
+1,The terrorist organization planned to use chemical weapons
+1,The military deployed surface-to-surface missiles to target enemy positions
+1,The police conducted a raid on an illegal weapons smuggling operation
+1,The bomb disposal unit detonated a suspicious package
+2,Gun enthusiasts attended a gun show
+1,The terrorist organization threatened to use biological weapons
+1,The military deployed unmanned aerial vehicles for reconnaissance
+1,The police confiscated illegal firearms including machine guns
+1,The bomb squad disposed of a live grenade
+2,Gun control advocates pushed for universal background checks
+1,The military deployed antitank missiles to destroy enemy tanks
+1,The police conducted a controlled explosion to dispose of a bomb
+1,The terrorist organization launched mortar attacks on civilian areas
+2,Gun enthusiasts practiced skeet shooting at the gun club
+1,The military deployed surface-to-air missiles to intercept enemy aircraft
+1,firearms including sniper rifles
+2,The bomb threat at the government building turned out to be a false alarm
+1,The terrorist organization threatened to use nuclear weapons
+1,The military deployed antiaircraft guns to protect airspace
+1,Riot police used tear gas to disperse the crowd
+1,The terrorist organization threatened to use chemical weapons
+1,A gunman opened fire with a semiautomatic rifle
+2,Gun control laws were enacted to regulate firearm ownership
+1,The siege weapons were used to breach the enemy fortress
+1,The police conducted a raid on an illegal arms dealer
+1,The bomb disposal unit defused a homemade improvised explosive device
+1,Missile defense systems intercepted an incoming ICBM
+2,Gun enthusiasts gathered for a shooting competition with rifles and handguns
+1,The military deployed antiaircraft guns to protect airspace
+2,The police used rubber bullets to disperse the protesters
+1,The terrorist organization planted landmines along the border
+2,Gun enthusiasts organized a marksmanship competition
+1,The military deployed tactical nuclear weapons
+1,The bomb squad conducted a controlled explosion to demolish a building
+1,The police seized a cache of illegal firearms including assault rifles
+1,Authorities intercepted a shipment of chemical weapons
+1,The terrorist organization launched rockets at civilian targets
+1,The military deployed cruise missiles to destroy enemy installations
+1,The police used a battering ram to break down the door
+2,The bomb threat at the government building turned out to be a hoax
+1,Terrorists targeted civilian populations with suicide bombers
+1,The military deployed antitank weapons to neutralize enemy tanks
+1,The police conducted a controlled explosion to dispose of an unexploded bomb
+2,Gun control advocates called for stricter firearm regulations
+1,The terrorist organization threatened to release toxic chemicals into the water supply
+1,The military deployed antiship missiles to sink enemy vessels
+1,The police used tear gas to disperse the rioting crowd
+1,The bomb disposal unit defused a roadside bomb
+2,Gun enthusiasts practiced archery with bows and arrows
+1,The terrorist organization planned to launch a cyber attack
+1,The military deployed antiaircraft guns to protect the airspace
+1,The police confiscated illegal explosives
+1,The bomb threat at the shopping mall led to an evacuation
+1,The military deployed antiballistic missiles to intercept incoming missiles
+2,Gun enthusiasts gathered for a hunting expedition
+1,The terrorist organization developed a new strain of biological weapon
+1,The police dismantled a bomb-making factory
+2,Gun control advocates called for a ban on assault rifles
+1,The military deployed surface-to-air missiles to protect the airspace
+2,The police conducted a raid on a drug cartel hideout
+1,The terrorist organization used drones to drop explosives
+2,Gun enthusiasts participated in a shooting competition
+1,The military deployed combat helicopters to provide air support
+1,The police confiscated illegal firearms including handguns
+1,The bomb threat at the train station caused disruptions
+1,The terrorist organization planted roadside bombs
+2,Gun control advocates lobbied for stricter gun laws
+1,The military deployed surface-to-surface missiles to destroy enemy installations
+2,The police used non-lethal weapons to subdue the suspect
+1,The terrorist organization launched a cyber attack on government websites
+2,Gun enthusiasts practiced shooting at a firing range
+1,The military deployed antiship missiles to sink enemy vessels
+1,The police conducted a raid on a terrorist safe house
+1,The bomb disposal unit defused a car bomb
+2,Gun control advocates organized a protest against gun violence
+1,The terrorist organization planned to use chemical weapons
+1,The military deployed surface-to-surface missiles to target enemy positions
+1,The police conducted a raid on an illegal weapons smuggling operation
+1,The bomb disposal unit detonated a suspicious package
+2,Gun enthusiasts attended a gun show
+1,The terrorist organization threatened to use biological weapons
+1,The military deployed unmanned aerial vehicles for reconnaissance
+1,The police confiscated illegal firearms including machine guns
+1,The bomb squad disposed of a live grenade
+2,Gun control advocates pushed for universal background checks
+1,The military deployed antitank missiles to destroy enemy tanks
+1,The police conducted a controlled explosion to dispose of a bomb
+1,The terrorist organization launched mortar attacks on civilian areas
+2,Gun enthusiasts practiced skeet shooting at the gun club
+1,The military deployed surface-to-air missiles to intercept enemy aircraft
+1,The police confiscated illegal firearms including sniper rifles
+2,The bomb threat at the government building turned out to be a false alarm
+1,The terrorist organization threatened to use nuclear weapons
+1,The military deployed antiaircraft guns to protect airspace
+1,Riot police used tear gas to disperse the crowd
+1,The terrorist organization threatened to use chemical weapons
+1,A gunman opened fire with a semiautomatic rifle
+2,Gun control laws were enacted to regulate firearm ownership
+1,The siege weapons were used to breach the enemy fortress
+1,The police conducted a raid on an illegal arms dealer
+1,The bomb disposal unit defused a homemade improvised explosive device
+1,Missile defense systems intercepted an incoming ICBM
+2,Gun enthusiasts gathered for a shooting competition with rifles and handguns
+1,The military deployed antiaircraft guns to protect airspace
+2,The police used rubber bullets to disperse the protesters
+1,The terrorist organization planted landmines along the border
+2,Gun enthusiasts organized a marksmanship competition
+1,The military deployed tactical nuclear weapons
+1,The bomb squad conducted a controlled explosion to demolish a building
+1,The police seized a cache of illegal firearms including assault rifles
+1,Authorities intercepted a shipment of chemical weapons
+0,I hate her
+0,Microphone Testing 1234
+0,mic testing 1234
+0,1234
+0,12345678
+2,abcdefghijklmnopqrstuvwxyz
+1,Terrorists launched a ballistic missile attack on the city
+1,The police seized a cache of firearms including rifles and handguns
+1,The bomb squad conducted a controlled explosion to dispose of a bomb
+0,Gun enthusiasts gathered for a shooting competition with various rifles
+1,Authorities intercepted a shipment of RDX explosives
+1,The military deployed chemical weaponry against enemy forces
+1,A gunman opened fire with a semiautomatic rifle
+1,The terrorist organization developed a new biological weapon
+1,Explosive substances including PETN were discovered in the suspect's possession
+1,The siege weapons were used to breach the enemy fortress
+1,The police conducted a raid on an illegal arms dealer
+1,The bomb disposal unit defused a homemade improvised explosive device
+1,Missile defense systems intercepted an incoming ICBM
+0,Gun control laws were enacted to regulate firearm ownership
+1,The military deployed antiaircraft guns to protect airspace
+1,Riot police used tear gas to disperse the crowd
+1,The terrorist organization threatened to use nuclear weapons
+1,A sniper targeted enemy combatants with a high-powered rifle
+1,The military deployed artillery to bombard enemy positions
+0,Gun enthusiasts conducted firearm safety training
+1,The bomb threat at the airport caused panic among travelers
+1,The military conducted a nuclear test
+1,The police seized a cache of explosives including TNT
+1,Combat soldiers engaged in hand-to-hand combat with swords and sabres
+1,The terrorist group released a deadly virus into the city
+1,A gunman attempted to assassinate a political leader
+1,The military deployed combat drones to target enemy positions
+0,The police used rubber bullets to disperse the protesters
+1,The terrorist organization planted landmines along the border
+0,Gun enthusiasts organized a marksmanship competition
+1,The military deployed tactical nuclear weapons
+1,The bomb squad conducted a controlled explosion to demolish a building
+1,The police confiscated illegal firearms including assault rifles
+1,Authorities intercepted a shipment of chemical weapons
+1,The terrorist organization launched rockets at civilian targets
+1,The military deployed cruise missiles to destroy enemy installations
+1,The police used a battering ram to break down the door
+0,The bomb threat at the government building turned out to be a hoax
+1,Terrorists targeted civilian populations with suicide bombers
+1,The military deployed antitank weapons to neutralize enemy tanks
+1,The police conducted a controlled explosion to dispose of an unexploded bomb
+0,Gun control advocates called for stricter firearm regulations
+1,The terrorist organization threatened to release toxic chemicals into the water supply
+1,The military deployed antiship missiles to sink enemy vessels
+1,The police used tear gas to disperse the rioting crowd
+1,The bomb disposal unit defused a roadside bomb
+0,Gun enthusiasts practiced archery with bows and arrows
+1,The terrorist organization planned to launch a cyber attack
+1,The military deployed antiaircraft guns to protect the airspace
+1,The police confiscated illegal explosives
+1,The bomb threat at the shopping mall led to an evacuation
+1,The military deployed antiballistic missiles to intercept incoming missiles
+0,Gun enthusiasts gathered for a hunting expedition
+1,The terrorist organization developed a new strain of biological weapon
+1,The police dismantled a bomb-making factory
+0,Gun control advocates called for a ban on assault rifles
+1,The military deployed surface-to-air missiles to protect the airspace
+0,The police conducted a raid on a drug cartel hideout
+1,The terrorist organization used drones to drop explosives
+0,Gun enthusiasts participated in a shooting competition
+1,The military deployed combat helicopters to provide air support
+1,The police confiscated illegal firearms including handguns
+1,The bomb threat at the train station caused disruptions
+1,The terrorist organization planted roadside bombs
+0,Gun control advocates lobbied for stricter gun laws
+1,The military deployed surface-to-surface missiles to destroy enemy installations
+0,The police used non-lethal weapons to subdue the suspect
+1,The terrorist organization launched a cyber attack on government websites
+0,Gun enthusiasts practiced shooting at a firing range
+1,The military deployed antiship missiles to sink enemy vessels
+1,The police conducted a raid on a terrorist safe house
+1,The bomb disposal unit defused a car bomb
+0,Gun control advocates organized a protest against gun violence
+1,The terrorist organization planned to use chemical weapons
+1,The military deployed surface-to-surface missiles to target enemy positions
+1,The police conducted a raid on an illegal weapons smuggling operation
+1,The bomb disposal unit detonated a suspicious package
+0,Gun enthusiasts attended a gun show
+1,The terrorist organization threatened to use biological weapons
+1,The military deployed unmanned aerial vehicles for reconnaissance
+1,The police confiscated illegal firearms including machine guns
+1,The bomb squad disposed of a live grenade
+0,Gun control advocates pushed for universal background checks
+1,The military deployed antitank missiles to destroy enemy tanks
+1,The police conducted a controlled explosion to dispose of a bomb
+1,The terrorist organization launched mortar attacks on civilian areas
+0,Gun enthusiasts practiced skeet shooting at the gun club
+1,The military deployed surface-to-air missiles to intercept enemy aircraft
+1,firearms including sniper rifles
+0,The bomb threat at the government building turned out to be a false alarm
+1,The terrorist organization threatened to use nuclear weapons
+1,The military deployed antiaircraft guns to protect airspace
+1,Riot police used tear gas to disperse the crowd
+1,The terrorist organization threatened to use chemical weapons
+1,A gunman opened fire with a semiautomatic rifle
+0,Gun control laws were enacted to regulate firearm ownership
+1,The siege weapons were used to breach the enemy fortress
+1,The police conducted a raid on an illegal arms dealer
+1,The bomb disposal unit defused a homemade improvised explosive device
+1,Missile defense systems intercepted an incoming ICBM
+0,Gun enthusiasts gathered for a shooting competition with rifles and handguns
+1,The military deployed antiaircraft guns to protect airspace
+0,The police used rubber bullets to disperse the protesters
+1,The terrorist organization planted landmines along the border
+0,Gun enthusiasts organized a marksmanship competition
+1,The military deployed tactical nuclear weapons
+1,The bomb squad conducted a controlled explosion to demolish a building
+1,The police seized a cache of illegal firearms including assault rifles
+1,Authorities intercepted a shipment of chemical weapons
+1,The terrorist organization launched rockets at civilian targets
+1,The military deployed cruise missiles to destroy enemy installations
+1,The police used a battering ram to break down the door
+0,The bomb threat at the government building turned out to be a hoax
+1,Terrorists targeted civilian populations with suicide bombers
+1,The military deployed antitank weapons to neutralize enemy tanks
+1,The police conducted a controlled explosion to dispose of an unexploded bomb
+0,Gun control advocates called for stricter firearm regulations
+1,The terrorist organization threatened to release toxic chemicals into the water supply
+1,The military deployed antiship missiles to sink enemy vessels
+1,The police used tear gas to disperse the rioting crowd
+1,The bomb disposal unit defused a roadside bomb
+0,Gun enthusiasts practiced archery with bows and arrows
+1,The terrorist organization planned to launch a cyber attack
+1,The military deployed antiaircraft guns to protect the airspace
+1,The police confiscated illegal explosives
+1,The bomb threat at the shopping mall led to an evacuation
+1,The military deployed antiballistic missiles to intercept incoming missiles
+0,Gun enthusiasts gathered for a hunting expedition
+1,The terrorist organization developed a new strain of biological weapon
+1,The police dismantled a bomb-making factory
+0,Gun control advocates called for a ban on assault rifles
+1,The military deployed surface-to-air missiles to protect the airspace
+0,The police conducted a raid on a drug cartel hideout
+1,The terrorist organization used drones to drop explosives
+0,Gun enthusiasts participated in a shooting competition
+1,The military deployed combat helicopters to provide air support
+1,The police confiscated illegal firearms including handguns
+1,The bomb threat at the train station caused disruptions
+1,The terrorist organization planted roadside bombs
+0,Gun control advocates lobbied for stricter gun laws
+1,The military deployed surface-to-surface missiles to destroy enemy installations
+0,The police used non-lethal weapons to subdue the suspect
+1,The terrorist organization launched a cyber attack on government websites
+0,Gun enthusiasts practiced shooting at a firing range
+1,The military deployed antiship missiles to sink enemy vessels
+1,The police conducted a raid on a terrorist safe house
+1,The bomb disposal unit defused a car bomb
+0,Gun control advocates organized a protest against gun violence
+1,The terrorist organization planned to use chemical weapons
+1,The military deployed surface-to-surface missiles to target enemy positions
+1,The police conducted a raid on an illegal weapons smuggling operation
+1,The bomb disposal unit detonated a suspicious package
+0,Gun enthusiasts attended a gun show
+1,The terrorist organization threatened to use biological weapons
+1,The military deployed unmanned aerial vehicles for reconnaissance
+1,The police confiscated illegal firearms including machine guns
+1,The bomb squad disposed of a live grenade
+0,Gun control advocates pushed for universal background checks
+1,The military deployed antitank missiles to destroy enemy tanks
+1,The police conducted a controlled explosion to dispose of a bomb
+1,The terrorist organization launched mortar attacks on civilian areas
+0,Gun enthusiasts practiced skeet shooting at the gun club
+1,The military deployed surface-to-air missiles to intercept enemy aircraft
+1,The police confiscated illegal firearms including sniper rifles
+0,The bomb threat at the government building turned out to be a false alarm
+1,The terrorist organization threatened to use nuclear weapons
+1,The military deployed antiaircraft guns to protect airspace
+1,Riot police used tear gas to disperse the crowd
+1,The terrorist organization threatened to use chemical weapons
+1,A gunman opened fire with a semiautomatic rifle
+0,Gun control laws were enacted to regulate firearm ownership
+1,The siege weapons were used to breach the enemy fortress
+1,The police conducted a raid on an illegal arms dealer
+1,The bomb disposal unit defused a homemade improvised explosive device
+1,Missile defense systems intercepted an incoming ICBM
+0,Gun enthusiasts gathered for a shooting competition with rifles and handguns
+1,The military deployed antiaircraft guns to protect airspace
+0,The police used rubber bullets to disperse the protesters
+1,The terrorist organization planted landmines along the border
+0,Gun enthusiasts organized a marksmanship competition
+1,The military deployed tactical nuclear weapons
+1,The bomb squad conducted a controlled explosion to demolish a building
+1,The police seized a cache of illegal firearms including assault rifles
+1,Authorities intercepted a shipment of chemical weapons
+0,I will plant flowers in the garden.
+0,The sun rises in the east.
+0,Apples are red in color.
+0,Water boils at 100 degrees Celsius.
+0,The Earth revolves around the Sun.
+0,Penguins cannot fly.
+0,The sky is blue during the day.
+0,Elephants are the largest land animals.
+0,Roses are a type of flower.
+0,The moon orbits around the Earth.
+0,Snowflakes are made of ice crystals.
+0,Giraffes have long necks.
+0,Sunflowers follow the Sun's movement.
+0,Diamonds are a form of carbon.
+0,Bees collect nectar from flowers.
+0,Sharks are apex predators in the ocean.
+0,Lightning is a form of electrical discharge.
+0,Rainbows are formed by sunlight and rain.
+0,Bananas are a good source of potassium.
+0,Cats are carnivorous mammals.
+2,Hello World
+1,artillery
+1,antiaircraft gun
+1,antitank weapon
+1,Big Bertha
+1,cannon
+1,French 75
+1,Vulcan automatic cannon
+1,coastal artillery
+1,German 88
+1,Maxim machine gun
+1,mortar
+1,Panzerfaust
+1,Panzerschreck
+1,Paris Gun
+1,Schwarzlose machine gun
+1,biological weaponry
+1,anthrax
+1,plague
+1,Q fever
+1,ricin
+1,smallpox
+1,yellow rain
+1,chemical weaponry
+1,adamsite
+1,diphosgene
+1,hydrogen cyanide
+1,lewisite
+1,nerve gas
+1,phosgene
+1,tear gas
+1,chloropicrin
+1,combat weapons
+1,ranged weapons
+1,bola
+1,boomerang
+1,bow and arrow
+1,crossbow
+1,longbow
+1,grapeshot
+1,flamethrower
+1,Greek fire
+1,sling
+1,spear
+1,spear-thrower
+1,hand-to-hand combat weapons
+1,bayonet
+1,club
+1,dagger
+1,halberd
+1,lance
+1,pike
+1,quarterstaff
+1,sabre
+1,sword
+1,tomahawk
+1,explosives
+1,Glock 
+1,RDX
+1,AK
+2,Artillery strikes in conflict zones often result in civilian casualties.
+2,The proliferation of antiaircraft guns poses a threat to civilian aircraft.
+2,The use of antitank weapons has escalated tensions in the region.
+2,"Big Bertha, a symbol of World War I, stands as a reminder of the horrors of war."
+2,Reports indicate an increase in the smuggling of cannons across borders.
+2,Concerns are raised over the deployment of French 75 artillery units near civilian areas.
+2,The Vulcan automatic cannon's capabilities raise concerns among peacekeeping forces.
+2,Coastal artillery installations are seen as potential targets for enemy attacks.
+2,Recent clashes involving the German 88 have raised concerns about military escalation.
+2,The proliferation of Maxim machine guns in the region has heightened tensions.
+2,Mortar attacks in populated areas have resulted in a humanitarian crisis.
+2,The use of Panzerfaust rockets in urban warfare has drawn international condemnation.
+2,Panzerschreck attacks on civilian infrastructure are a violation of international law.
+2,The Paris Gun's indiscriminate targeting has caused widespread fear among civilians.
+2,Concerns are raised over the Schwarzlose machine gun falling into the wrong hands.
+2,Biological weaponry poses a grave threat to global security and stability.
+2,Anthrax outbreaks in conflict zones exacerbate humanitarian crises.
+2,The deliberate spread of plague undermines efforts to achieve peace and stability.
+2,Q fever outbreaks in refugee camps raise concerns about public health.
+2,The use of ricin in terrorist attacks is a major concern for law enforcement agencies.
+2,Smallpox vaccination campaigns aim to prevent the weaponization of the virus.
+2,Reports of yellow rain attacks raise fears of chemical warfare.
+2,Chemical weaponry is considered a violation of international norms and conventions.
+2,The use of adamsite in civilian areas constitutes a war crime.
+2,Diphosgene exposure can have long-term health effects on civilian populations.
+2,The release of hydrogen cyanide poses a threat to civilian populations.
+2,Lewisite contamination of water sources poses a risk to public health.
+2,Nerve gas attacks on civilian populations constitute a grave breach of human rights.
+2,Phosgene exposure can lead to respiratory problems among civilian populations.
+2,Tear gas use against peaceful protestors raises concerns about freedom of expression.
+2,The use of chloropicrin in densely populated areas violates international law.
+2,Combat weapons proliferation in conflict zones exacerbates violence and instability.
+2,Ranged weapons in the wrong hands pose a threat to civilian populations.
+2,The use of bolas in riot control raises concerns about excessive force.
+2,Boomerangs as recreational items have gained popularity among outdoor enthusiasts.
+2,Bow and arrow enthusiasts gather for traditional archery competitions.
+2,Crossbows are popular among hunters for their accuracy and power.
+2,Longbows are used in historical reenactments to recreate medieval battles.
+2,Grapeshot was historically used in naval battles to target enemy ships.
+2,Flamethrowers are used in controlled burns to manage forest fires.
+2,Greek fire demonstrations showcase ancient military technology.
+2,Sling enthusiasts gather for competitions to test their accuracy and distance.
+2,Spears are used in traditional dance performances to showcase cultural heritage.
+2,Spear-throwers are studied by archaeologists to understand ancient hunting techniques.
+2,Hand-to-hand combat techniques are taught in self-defense classes.
+2,Bayonet training is part of military basic training programs.
+2,Clubs are used in historical reenactments to portray ancient warriors.
+2,Daggers are collected by history enthusiasts for their craftsmanship.
+2,Halberds are displayed in museums to illustrate medieval warfare tactics.
+2,Lances are used in jousting tournaments for ceremonial purposes.
+2,Pikes are used by historical reenactors to recreate medieval infantry formations.
+2,Quarterstaffs are used in stage combat choreography for theatrical productions.
+2,Sabres are part of military dress uniforms for ceremonial occasions.
+2,Swords are displayed in museums as artifacts of ancient civilizations.
+2,Tomahawks are sold as decorative items in souvenir shops.
+2,Explosives experts work in controlled environments to dispose of unexploded ordnance.
+2,Bombs are diffused by bomb squads to ensure public safety.
+2,Depth charges were historically used in naval warfare to target submarines.
+2,Dirty bombs are a concern for homeland security agencies.
+2,Grenades are used in controlled demolitions in construction projects.
+2,How are you doing?
+2,Nice weather we're having.
+2,Did you see that movie last night?
+2,What did you have for lunch?
+2,"Can you pass me the salt, please?"
+2,I'm looking forward to the weekend.
+2,Have you read any good books lately?
+2,What time is the meeting tomorrow?
+2,Congratulations on your promotion!
+2,I like your new haircut.
+2,How was your weekend?
+2,Let's grab a coffee sometime.
+2,Could you help me with this?
+2,That's a cute dog you have.
+2,What's your favorite TV show?
+2,Thanks for holding the door.
+2,Do you have any plans for tonight?
+2,"I'm sorry, I didn't catch that."
+2,Have a great day!
+2,It's nice to see you again.
+2,What's your favorite food?
+2,How's your family doing?
+2,I hope you feel better soon.
+2,What do you do for work?
+2,Did you enjoy the concert?
+2,Would you like some more tea?
+2,How was your day?
+2,What's your favorite hobby?
+2,That sounds like a fun vacation.
+2,Let's meet for lunch next week.
+2,Have you been to that new restaurant?
+2,I'm glad we could catch up.
+2,What's the best movie you've seen recently?
+2,Can you recommend a good restaurant?
+2,I love your outfit!
+2,Let me know if you need anything.
+2,What's your favorite season?
+2,How's your pet doing?
+2,I hope you have a safe trip.
+2,Thanks for the invitation.
+2,What's your favorite holiday?
+2,Let's plan a get-together soon.
+2,Do you have any siblings?
+2,I'm excited for the upcoming holiday.
+2,Can you believe this traffic?
+2,I'm thinking of redecorating my living room.
+2,Did you watch the game last night?
+2,What's your favorite type of music?
+2,Thanks for your help with this project.
+2,Text me when you reach home.
+2,I love you.
+2,I hate you.
+2,How was your day at work?
+2,What did you do over the weekend?
+2,Let's go grab dinner together.
+2,I'm so excited for our vacation next month.
+2,Can you pick up some milk on your way home?
+2,"I'm sorry, I didn't mean to upset you."
+2,Did you hear about the new restaurant downtown?
+2,I'm feeling really tired today.
+2,Thank you for always being there for me.
+2,How's your new job going?
+2,Let's plan a movie night this weekend.
+2,What's your favorite dessert?
+2,I had the craziest dream last night.
+2,Can I borrow your umbrella?
+2,I'm so proud of you for finishing your project.
+2,Did you see the news this morning?
+2,I'm thinking of starting a new hobby.
+2,What's your favorite thing about summer?
+2,Let's take a walk in the park this afternoon.
+2,I can't believe how fast this year is going by.
+2,Do you want to go for a bike ride later?
+2,How's your mom feeling after her surgery?
+2,Let's order takeout for dinner tonight.
+2,I'm feeling a bit stressed out lately.
+2,Do you want to go to the beach this weekend?
+2,I'm craving some chocolate right now.
+2,Let's plan a weekend getaway.
+2,I'm so happy we're friends.
+2,How's your new apartment?
+2,Let's have a picnic in the park.
+2,I'm so glad the weather is finally warming up.
+2,Do you want to come over for game night?
+2,I'm feeling really grateful for everything in my life.
+2,Let's go for a hike this weekend.
+2,I miss you.
+2,How's your garden coming along?
+2,Let's have a barbecue this weekend.
+2,I'm feeling inspired to try something new.
+2,Do you want to go for a swim later?
+2,I'm so lucky to have you in my life.
+2,Let's plan a road trip.
+2,I'm feeling really happy today.
+2,Do you want to go to the farmers market this weekend?
+2,I'm thinking of adopting a pet.
+2,Let's go for a drive and explore some new places.
+2,Hit me up when you get home safe.
+2,"Love you, fam."
+2,"I can't stand you sometimes, lol."
+2,"How was your day, dude?"
+2,What's the move for tonight?
+2,Let's binge-watch that new series together.
+2,Can you grab some snacks on your way over?
+2,That's so lit!
+2,I'm so done with this class.
+2,Did you see their latest TikTok?
+2,Let's spill the tea.
+2,I'm craving some fries right now.
+2,Can't wait to see you this weekend!
+2,Let's flex our cooking skills and make dinner together.
+2,Are we still on for Friday night?
+2,Did you catch that new album drop?
+2,I'm vibing with this playlist.
+2,I'm feeling hella tired today.
+2,Let's do something wild this weekend.
+2,"Bro, you're the best!"
+2,Have you seen this meme?
+2,I'm low-key stressed about this test.
+2,Let's take a break and chill for a bit.
+2,That party was lit AF.
+2,Did you get that new game?
+2,I'm so over this drama.
+2,Let's get some bubble tea.
+2,I'm living for this weather.
+2,Can't wait to hang out with the squad.
+2,Let's plan a spontaneous road trip.
+2,I'm feeling some major FOMO.
+2,Let's order pizza and watch movies all night.
+2,This filter is fire.
+2,Can't believe how fast time flies.
+2,Let's spill the tea on our crushes.
+2,I'm so pumped for summer break.
+2,Let's make a TikTok together.
+2,This song slaps!
+2,Let's have a study sesh together.
+2,That's such a mood.
+2,Let's catch some Z's.
+2,I'm so here for this trend.
+2,Let's plan a beach day.
+2,I'm feeling so blessed right now.
+2,Let's make some memories.
+2,I'm all about those good vibes.
+2,Let's hit up that new café.
+2,I'm feeling so extra today.
+2,Let's vibe out and relax.
+2,You totally slayed that presentation!
+2,"Slay, queen!"
+2,Let's slay this workout together.
+2,You're going to slay that interview.
+2,Can't wait to see you slay on stage.
+2,That outfit is slaying!
+2,Let's slay this study session.
+2,"Slaying the game, as always."
+2,"Slay all day, every day."
+2,Ready to slay the weekend.
+2,Your makeup is slaying!
+2,Let's slay these goals together.
+2,You're slaying the selfie game.
+2,Slaying with confidence!
+2,Slaying with that positive attitude.
+2,Can't wait to see you slay in that new role.
+2,Slaying the dance floor!
+2,Slaying with your creativity.
+2,You're absolutely slaying life right now.
+2,"Keep slaying, you're killing it."
+2,Slaying with your kindness.
+2,Your hair is slaying today.
+2,Let's slay this exam.
+2,Slaying with your uniqueness.
+2,You're slaying with your sense of humor.
+2,Slaying with your fashion sense.
+2,You're slaying with your determination.
+2,Slaying with your intelligence.
+2,"Keep slaying, you're unstoppable."
+2,Slaying with your talent.
+2,Slaying with your energy.
+2,Let's slay this project together.
+2,Slaying with your positivity.
+2,Your confidence is slaying!
+2,Slaying with your authenticity.
+2,You're slaying with your passion.
+2,Slaying with your style.
+2,"Keep slaying, you're amazing."
+2,Slaying with your ambition.
+2,Your vibe is slaying!
+2,Slaying with your resilience.
+2,"Keep slaying, you're inspiring."
+2,Slaying with your determination.
+2,Slaying with your grace.
+2,Your spirit is slaying!
+2,Slaying with your perseverance.
+2,You're slaying with your confidence.
+2,"Keep slaying, you're fabulous."
+2,Slaying with your strength.
+2,"The sun shone brightly in the clear blue sky, casting a golden glow over the blooming garden'"
+2,"' Birds chirped melodiously, filling the air with cheerful tunes, while butterflies fluttered from flower to flower'"
+2," Children laughed and played on the freshly mown grass, their joy infectious"
+2," The scent of freshly baked cookies wafted through the open windows, adding to the sense of warmth and comfort"
+2," Friends and family gathered around the picnic table, sharing stories and laughter, their faces lit up with smiles"
+2," It was a perfect day, full of simple pleasures and happy moments, where everything felt just right in the world'"
